@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - section_id: hero
+  - section_id: my
     type: section_hero
     image: images/hero.png
     title: Bitcoin
